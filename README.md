@@ -39,4 +39,9 @@ All contributions are made by Lokesh Chaudhary under the mentorship of Muzammil 
 For any inquiries, please contact:
 
 - **Lokesh Chaudhary**: (Lokeshchaudhary807760@gmail.com)
+- ## Screenshot
+- ## TASK1 ![Screenshot 2024-09-02 180030](https://github.com/user-attachments/assets/13cbc321-ca90-4d69-8075-83934590de60)
+- ## TASK2 ![Screenshot 2024-09-02 180434](https://github.com/user-attachments/assets/82f69d9e-bb2b-42a2-91a7-2414321049c6)
+
+
 
