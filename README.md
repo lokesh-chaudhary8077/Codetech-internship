@@ -34,8 +34,7 @@ The repository is organized into the following sections:
 
 - Java
 - Git
-- Maven
-- JUnit
+
 
 ## Contributions
 
@@ -45,5 +44,5 @@ All contributions are made by Lokesh Chaudhary under the mentorship of Muzammil 
 
 For any inquiries, please contact:
 
-- **Lokesh Chaudhary**: [Email](mailto:your-email@example.com)
-- **Mentor Muzammil Ahmed**: [Email](mailto:mentor-email@example.com)
+- **Lokesh Chaudhary**: (Lokeshchaudhary807760@gmail.com)
+
