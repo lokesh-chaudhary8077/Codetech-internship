@@ -9,13 +9,7 @@
 
 This repository contains the Java projects and assignments developed during the internship at Codetech IT Solution. The internship focused on mastering Java programming and implementing various software development techniques under the guidance of Mentor Muzammil Ahmed.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributions](#contributions)
-- [Contact Information](#contact-information)
 
 ## Introduction
 
