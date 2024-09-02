@@ -15,6 +15,10 @@ This repository contains the Java projects and assignments developed during the 
 
 This internship provided hands-on experience in Java programming and software development. The tasks completed during the internship include project assignments, code reviews, and collaborative development efforts.
 
+## Overview
+## TASK1
+The BasicCalculator is a simple Java program that performs basic arithmetic operations (Addition, Subtraction, Multiplication, and Division) based on user input. The program prompts the user to input two numbers and then select an operation to perform on these numbers
+
 ## Project Structure
 
 The repository is organized into the following sections:
